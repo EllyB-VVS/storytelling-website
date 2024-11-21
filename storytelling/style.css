@@ -1,0 +1,23 @@
+
+p{color:red}
+
+/* Who(what/how)*/
+
+h1{color:red}
+
+
+
+ol{color: blue;}
+
+ul{color: bisque;}
+
+
+
+.list{
+    color: azure;
+    margin: 10px;
+    border-style:solid;
+    border-color: black; 
+    border: radius 30px;
+    text-align: center;
+}
